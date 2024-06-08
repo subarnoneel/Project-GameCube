@@ -8,8 +8,8 @@
 <p align="center">
 
  <img width="80" src="https://badgen.net/badge/build/v1.0/blue" alt="badge1">
- <img width="80" src="https://badgen.net/badge/language/C/blue" alt="badge1">
- <img width="80" src="https://badgen.net/badge/license/MIT/blue" alt="badge2">
+ <img width="80" src="https://badgen.net/badge/language/C/blue" alt="badge2">
+ <img width="80" src="https://badgen.net/badge/license/MIT/blue" alt="badge3">
 
 </p>
 
