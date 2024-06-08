@@ -1,4 +1,20 @@
-# Project GameCube
+<p align="center">
+  
+  <img width="200" src="https://github.com/subarnoneel/Project-GameCube/assets/144299709/01c61b6b-d574-4f1f-9e47-e0d16435b85e" alt="GameCube">
+
+</p>
+
+
+<p align="center">
+
+ <img width="80" src="https://badgen.net/badge/build/v1.0/blue" alt="badge1">
+ <img width="80" src="https://badgen.net/badge/language/C/blue" alt="badge1">
+ <img width="80" src="https://badgen.net/badge/license/MIT/blue" alt="badge2">
+
+</p>
+
+
+## Project GameCube
 
 Project Gamecube is a Snake and Ladder game made using C.
 
@@ -32,8 +48,7 @@ To play the game, simply download the `project` folder containing the C code and
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
