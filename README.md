@@ -36,11 +36,11 @@ CodeBlocks IDE installed
 
 ## Installation
 
-To play the game, simply download the `project` folder containing the C code and all the image and audio files.
+To play the game, simply download the [Project Files](https://github.com/subarnoneel/Project-GameCube/releases/download/v1.0/project_files.zip) containing the C code and all the image and audio files.
 
 ## How to use
 
-1. Extract the files from the `project` folder.
+1. Extract the files from the `project_files` folder.
 
 2. Run the `SDL Starter.cbp` file.
 
