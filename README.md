@@ -46,19 +46,6 @@ To play the game, simply download the [Project Files](https://github.com/subarno
 
 3. Build and Run the code opened in CodeBlocks.
 
-## Academic Context
-
-Developed as a team project for **CSE 4202 — Structured Programming II Lab**
-at Islamic University of Technology.
-
-## My Contributions
-
-My primary contributions were:
-
-- Designed and created the graphical assets used throughout the game
-- Implemented the snake-and-ladder placement and board-changing logic
-- Contributed the project documentation
-
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
